@@ -1,4 +1,4 @@
-package com.mikofranco.JwtSpringSecurity;
+package com.mikofranco.NgoOrganization;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
